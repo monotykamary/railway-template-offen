@@ -1,6 +1,6 @@
 # Offen Fair Web Analytics on Railway
 
-<!-- The verified Railway deploy button is added after publication. -->
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/offen-fair-analytics)
 
 A privacy-friendly [Offen Fair Web Analytics](https://www.offen.dev/) deployment pinned to `v1.4.2`. The wrapper runs migrations, creates the first operator idempotently, and connects Offen to a persistent Railway PostgreSQL service.
 
